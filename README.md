@@ -13,5 +13,5 @@ You can:
 
 Your time:
 - We respect your time and know you have life obligations
-- You can spend as little or as much time and you need
+- You can spend as little or as much time as you need
 - Just let us know when your ready to discuss
