@@ -11,7 +11,7 @@ You can:
 - Use whatever tools, techniques and resources you like
 - Use whatever form of display you like (e.g. console, or go full stack and build a UI too!)
 
-You time:
+Your time:
 - We respect your time and know you have life obligations
 - You can spend as little or as much time and you need
 - Just let us know when your ready to discuss
