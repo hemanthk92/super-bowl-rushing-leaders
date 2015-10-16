@@ -3,7 +3,7 @@ An exercise to determine the rushing leaders from SuperBowl XLIX
 
 Using Node.js:
 - Load the super-bowl-play-by-play file
-- Display the to 10 rushing leaders for the game (ranked by most rushing yards)
+- Display the top 10 rushing leaders for the game (ranked by most rushing yards)
 - Send us a link to GitHub repo with solution/readme
 - We will clone the repo and run locally
 
