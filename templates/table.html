@@ -1,0 +1,17 @@
+<html>
+<head>
+<title>Test</title>
+</head>
+
+<body>
+<h1>Super Bowl 49 Rushing Leaders </h1>
+<table>
+{% for rusher in rushers %}
+	<tr>
+	<td>{{ rusher[0]}}</td>
+	<td>{{rusher[1]}}</td>
+	</tr>
+{% endfor %}
+</table>
+</body>
+</html>
